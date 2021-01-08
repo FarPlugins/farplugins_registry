@@ -2,6 +2,7 @@
 
 *bold caption: plugin on support or in author`s repo; else - in archive*
 
+* 7zipalt - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=838) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=84) ; [Sources](https://github.com/FarPluginsArchive/7zipalt)
 * **AdvCmpEx** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=19); [Discuss](https://forum.farmanager.com/viewtopic.php?t=1526) ; [Sources](https://github.com/FarPlugins/AdvCmpEx)
 * **Base64** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=946) ; Discuss ; [Sources](https://github.com/Maximus5/FarPlugins/tree/master/Base64)
 * **Calculator** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=15) ; [Discuss](https://forum.farmanager.com/viewtopic.php?t=4196&start=300) ; [Sources](https://github.com/FarPlugins/Calculator)
