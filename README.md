@@ -13,6 +13,7 @@
 * **EditWrap** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=951) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=6587) ; [Sources](https://github.com/Maximus5/FarPlugins/tree/master/EditWrap)
 * Far3Wrap - PlugRing ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=8&t=6407) ; [Sources](https://github.com/FarPluginsArchive/farplug-Maximus-archive/tree/master/Far3Wrap)
 * FarSelector - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=846) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=11&t=5161&p=59888) ; [Sources](https://github.com/FarPluginsArchive/farplug-Maximus-archive/tree/master/FarSelector)
+* FarSpell - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=768) ; [Discuss](https://forum.farmanager.com/viewtopic.php?t=1087) ; [Sources](https://github.com/FarPluginsArchive/farspell)
 * FarWDS - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=793) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=5444) ; [Sources](https://github.com/FarPluginsArchive/farplug-Maximus-archive/tree/master/FarWDS)
 * **FileTypes** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=835) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=5319) ; [Sources](https://github.com/Maximus5/FarPlugins/tree/master/FileTypes)
 * HexEditor - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=120) ; Discuss ; [Sources](https://github.com/FarPluginsArchive/far-hex-edit)
