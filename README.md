@@ -15,7 +15,7 @@
 * FarWDS - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=793) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=5444) ; [Sources](https://github.com/FarPluginsArchive/farplug-Maximus-archive/tree/master/FarWDS)
 * **FileTypes** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=835) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=5319) ; [Sources](https://github.com/Maximus5/FarPlugins/tree/master/FileTypes)
 * HotDir - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=522) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=2533) ; [Sources](https://github.com/FarPluginsArchive/farplug-alvls/tree/master/hotdir)
-* html_c0 - PlugRing ; [Discuss](http://forum.farmanager.com/viewtopic.php?f=8&t=5469) ; [Sources](https://github.com/FarPlugins/column_c0/tree/master/html_c0)
+* html_c0 - PlugRing ; [Discuss](http://forum.farmanager.com/viewtopic.php?f=8&t=5469) ; [Sources](https://github.com/FarPluginsArchive/column_c0)
 * **Img_C0** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=971) ; Discuss ; [Sources](https://github.com/Maximus5/FarPlugins/tree/master/Col0/img_c0)
 * **ImpEx** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=790) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=4996) ; [Sources](https://github.com/Maximus5/FarPlugins/tree/master/ImpEx)
 * MacroDecrypt - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=798) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=3099) ; [Sources](https://github.com/FarPluginsArchive/farplug-alvls/tree/master/MacroDecrypt)
@@ -38,7 +38,4 @@
 * **Ver_C0** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=795) ; [Discuss](https://forum.farmanager.com/viewtopic.php?t=5467) ; [Sources](https://github.com/Maximus5/FarPlugins/tree/master/Col0/ver_c0)
 * **VisRen** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=801) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=11&t=2810) ; [Sources](https://github.com/FarPlugins/VisRen)
 * **WM Explorer** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=895) ; [Discuss](https://forum.farmanager.com/viewtopic.php?t=2827) ; [Sources](https://sourceforge.net/p/farplugs/code/HEAD/tree/chupakabra_farplug/wmexplorer)
-
- 
-
-
+* zip_c0 - PlugRing ; [Discuss](http://forum.farmanager.com/viewtopic.php?f=8&t=5472) ; [Sources](https://github.com/FarPluginsArchive/column_c0)
