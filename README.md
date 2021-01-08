@@ -15,6 +15,7 @@
 * FarSelector - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=846) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=11&t=5161&p=59888) ; [Sources](https://github.com/FarPluginsArchive/farplug-Maximus-archive/tree/master/FarSelector)
 * FarWDS - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=793) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=5444) ; [Sources](https://github.com/FarPluginsArchive/farplug-Maximus-archive/tree/master/FarWDS)
 * **FileTypes** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=835) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=5319) ; [Sources](https://github.com/Maximus5/FarPlugins/tree/master/FileTypes)
+* HexEditor - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=120) ; Discuss ; [Sources](https://github.com/FarPluginsArchive/far-hex-edit)
 * HotDir - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=522) ; [Discuss](https://forum.farmanager.com/viewtopic.php?f=5&t=2533) ; [Sources](https://github.com/FarPluginsArchive/farplug-alvls/tree/master/hotdir)
 * html_c0 - PlugRing ; [Discuss](http://forum.farmanager.com/viewtopic.php?f=8&t=5469) ; [Sources](https://github.com/FarPluginsArchive/column_c0)
 * **Img_C0** - [PlugRing](https://plugring.farmanager.com/plugin.php?pid=971) ; Discuss ; [Sources](https://github.com/Maximus5/FarPlugins/tree/master/Col0/img_c0)
